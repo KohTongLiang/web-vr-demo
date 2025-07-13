@@ -1,9 +1,9 @@
 const cacheName = "Koh Tong Liang-XR Demo-0.1.0";
 const contentToCache = [
     "Build/inis-vr-demo.loader.js",
-    "Build/inis-vr-demo.framework.js.gz",
-    "Build/inis-vr-demo.data.gz",
-    "Build/inis-vr-demo.wasm.gz",
+    "Build/inis-vr-demo.framework.js",
+    "Build/inis-vr-demo.data",
+    "Build/inis-vr-demo.wasm",
     "TemplateData/style.css"
 
 ];
